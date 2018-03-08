@@ -1,3 +1,2 @@
 # ctpsystem
-CTPSYSTEM migration (VB &amp; ASP) versions
-my branch
+CTPSYSTEM migration (VB &amp; ASP) version
